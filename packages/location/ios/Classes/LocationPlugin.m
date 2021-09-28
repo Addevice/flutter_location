@@ -42,7 +42,7 @@
         self.locationWanted = NO;
         self.permissionWanted = NO;
         self.flutterListening = NO;
-        self.waitNextLocation = 2;
+        self.waitNextLocation = 0;
         self.hasInit = NO;
     }
     return self;
